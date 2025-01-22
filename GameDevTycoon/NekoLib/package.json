@@ -1,0 +1,22 @@
+{
+    "id": "f421d8e1-ae00-4022-a080-d755d5b5b6bf",
+    "name": "NekoLib",
+    "version": "1.0.1",
+    "author": "justinsanjp",
+    "url": "http://nekolib.justinsanjp.de",
+    "description": "NekoLib is a mod that contains many open source libraries & self-made scripts where modding becomes easier and better. through this mod it is possible to develop extensive mods.\n\nthese Lib. are included:\n1. [Lodash](https://github.com/lodash/lodash)  \n2. [Day.js](https://github.com/iamkun/dayjs)  \n3. [Anime.js](https://github.com/juliangarnier/anime)  \n4. [Chart.js](https://github.com/chartjs/Chart.js)  \n5. [Simple.js](https://github.com/simplejs/simple)  \n6. [EventEmitter3](https://github.com/primus/eventemitter3)  \n7. [Vite](https://github.com/vitejs/vite)  \n8. [Console.js](https://github.com/pyrsmk/console.js)  \n9. [Chance.js](https://github.com/chancejs/chancejs)  \n10. [Howler.js](https://github.com/goldfire/howler.js)  \n11. [JSZip](https://github.com/Stuk/jszip)  \n12. [FileSaver.js](https://github.com/eligrey/FileSaver.js)  ",
+    "main": "./main.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x",
+        "UltimateLib": "1.3.x"
+    },
+    "devDependencies": {},
+    "localLibraries": {
+        "anime": "./lib/anime-master/lib/anime.js",
+        "chart": "./lib/chart.js-master/dist/chart.js",
+        "dayjs": "./lib/dayjs-dev/src/index.js",
+        "howler": "./lib/howler.js-master/dist/howler.js",
+        "jszip": "./lib/jszip-main/lib/index.js"
+    },
+    "image": "logo-Thumbnail.png"
+}

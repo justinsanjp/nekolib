@@ -1,0 +1,4 @@
+/*
+This version of NekoLib does not include custom scripts. 
+in the future all scripts will be listed here.
+*/
